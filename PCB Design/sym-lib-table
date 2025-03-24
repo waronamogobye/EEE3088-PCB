@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DX07S024WJ3R400")(type "KiCad")(uri "${KIPRJMOD}/Imported Components/DX07S024WJ3R400.kicad_sym")(options "")(descr ""))
+)
