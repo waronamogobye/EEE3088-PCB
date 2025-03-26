@@ -3,4 +3,7 @@
   (lib (name "DX07S024WJ3R400")(type "KiCad")(uri "${KIPRJMOD}/Imported Components/DX07S024WJ3R400.kicad_sym")(options "")(descr ""))
   (lib (name "IP2721")(type "KiCad")(uri "${KIPRJMOD}/Imported Components/IP2721.kicad_sym")(options "")(descr ""))
   (lib (name "2025-03-25_12-55-14")(type "KiCad")(uri "${KIPRJMOD}/Imported Components/2025-03-25_12-55-14.kicad_sym")(options "")(descr ""))
+  (lib (name "SY7088")(type "KiCad")(uri "${KIPRJMOD}/Imported Components/SY7088.kicad_sym")(options "")(descr ""))
+  (lib (name "AP2210K-3.3TRG1")(type "KiCad")(uri "${KIPRJMOD}/Imported Components/AP2210K-3.3TRG1.kicad_sym")(options "")(descr ""))
+  (lib (name "PAM")(type "KiCad")(uri "${KIPRJMOD}/Imported Components/PAM.kicad_sym")(options "")(descr ""))
 )

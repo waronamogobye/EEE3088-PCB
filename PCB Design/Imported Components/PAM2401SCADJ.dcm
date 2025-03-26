@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PAM2401SCADJ
+D DiodesZetex PAM2401SCADJ, Step Down DC-DC Converter, 1000mA, Adjustable, 2.5  5 V, 8-Pin MSOP 8
+K
+F https://www.diodes.com//assets/Datasheets/PAM2401.pdf
+$ENDCMP
+#
+#End Doc Library
